@@ -3,3 +3,5 @@ git status - mostra o status do trabalho
 git add nome_arquivo - adiciona arquivo para ser commitado	
 git commit -m "msg" - faz commit do que estava para ser commitado
 git log - mostra todo o histórico de commit
+git diff nome_arquivo - mostra tudo que foi alterado no arquivo desde o ultimo commit
+git reset nome_arquivo - tirar da fase do stage, quando eu nao quero commitar o que esta lá 
