@@ -5,3 +5,5 @@ git commit -m "msg" - faz commit do que estava para ser commitado
 git log - mostra todo o histórico de commit
 git diff nome_arquivo - mostra tudo que foi alterado no arquivo desde o ultimo commit
 git reset nome_arquivo - tirar da fase do stage, quando eu nao quero commitar o que esta lá 
+git checkout -b secundaria - criar uma nova branch (branch é como se eu tivesse dado um checkout, um novo ponto de partida) (-b serve para criar um branch que não existe) (git checkout main por exemplo volta p principal)
+git branch - p ver minhas branchs criadas
